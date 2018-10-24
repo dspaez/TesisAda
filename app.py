@@ -11,7 +11,7 @@ class pregunta(Resource):
     def get(self):
         return {'data': motor.genera_pregunta2(3)}
 
-api.add_resource(pregunta, '/motor')
+api.add_resource(pregunta, '/pregunta')
 
 if __name__ == '__main__':
      app.run()
