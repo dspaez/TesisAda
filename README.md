@@ -1,1 +1,1 @@
-# Introucción a Py2Neo
+# Introducción a Py2Neo
